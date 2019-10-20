@@ -1,0 +1,6 @@
+C:\Users\tower\source\repos\MoveTo\MoveTo\bin\Release\MoveTo.exe.config
+C:\Users\tower\source\repos\MoveTo\MoveTo\bin\Release\MoveTo.exe
+C:\Users\tower\source\repos\MoveTo\MoveTo\bin\Release\MoveTo.pdb
+C:\Users\tower\source\repos\MoveTo\MoveTo\obj\Release\MoveTo.csproj.CoreCompileInputs.cache
+C:\Users\tower\source\repos\MoveTo\MoveTo\obj\Release\MoveTo.exe
+C:\Users\tower\source\repos\MoveTo\MoveTo\obj\Release\MoveTo.pdb
