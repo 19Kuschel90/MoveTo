@@ -5,4 +5,4 @@
 
 Configuration file must be in the same folder the exe
 
-When not working, re-form the program.
+When not working, re build the program.
